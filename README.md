@@ -62,8 +62,6 @@ Project Link: [https://github.com/PeterTramm/VBA-challenge](https://github.com/P
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Dataset created by Trilogy Education Services, a 2U, Inc. brand.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
